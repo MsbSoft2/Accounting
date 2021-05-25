@@ -1,0 +1,14 @@
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojAssemblyReference.cache
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SADRA\Desktop\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb

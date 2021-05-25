@@ -1,0 +1,6 @@
+C:\Users\SADRA\Desktop\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SADRA\Desktop\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SADRA\Desktop\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\SADRA\Desktop\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\SADRA\Desktop\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+C:\Users\SADRA\Desktop\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
